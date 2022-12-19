@@ -1,0 +1,176 @@
+Direction/East
+Action/Bow
+BE.png
+BE.png
+BE.png
+BE.png
+BE.png
+BE.png
+BE.png
+BE.png
+Action/Die
+DW (1).png
+DW (2).png
+DW (3).png
+DW (4).png
+Action/Attack
+AE (1).png
+AE (2).png
+AE (3).png
+AE (4).png
+Action/Hited
+HE (1).png
+HE (1).png
+HE (2).png
+HE (2).png
+Action/Run
+RE (1).png
+RE (2).png
+RE (3).png
+RE (4).png
+RE (5).png
+RE (6).png
+RE (7).png
+RE (8).png
+RE (9).png
+RE (10).png
+Action/Stop
+SE.png
+Action/Punch
+PE (1).png
+PE (2).png
+PE (3).png
+PE (4).png
+PE (5).png
+Direction/West
+Action/Bow
+BW.png
+BW.png
+BW.png
+BW.png
+BW.png
+BW.png
+BW.png
+BW.png
+Action/Die
+DW (1).png
+DW (2).png
+DW (3).png
+DW (4).png
+Action/Attack
+AW (1).png
+AW (2).png
+AW (3).png
+AW (4).png
+Action/Hited
+HW (1).png
+HW (1).png
+HW (2).png
+HW (2).png
+Action/Run
+RW (1).png
+RW (2).png
+RW (3).png
+RW (4).png
+RW (5).png
+RW (6).png
+RW (7).png
+RW (8).png
+RW (9).png
+RW (10).png
+Action/Stop
+SW.png
+Action/Punch
+PW (1).png
+PW (2).png
+PW (3).png
+PW (4).png
+PW (5).png
+Direction/North
+Action/Bow
+BN.png
+BN.png
+BN.png
+BN.png
+BN.png
+BN.png
+BN.png
+BN.png
+Action/Die
+DW (1).png
+DW (2).png
+DW (3).png
+DW (4).png
+Action/Attack
+AN (1).png
+AN (2).png
+AN (3).png
+AN (4).png
+Action/Hited
+HN (1).png
+HN (1).png
+HN (2).png
+HN (2).png
+Action/Run
+RN (1).png
+RN (2).png
+RN (3).png
+RN (4).png
+RN (5).png
+RN (6).png
+RN (7).png
+RN (8).png
+RN (9).png
+RN (10).png
+Action/Stop
+SN.png
+Action/Punch
+PN (1).png
+PN (2).png
+PN (3).png
+PN (4).png
+PN (5).png
+Direction/South
+Action/Bow
+BS.png
+BS.png
+BS.png
+BS.png
+BS.png
+BS.png
+BS.png
+BS.png
+Action/Die
+DW (1).png
+DW (2).png
+DW (3).png
+DW (4).png
+Action/Attack
+AS (1).png
+AS (2).png
+AS (3).png
+AS (4).png
+Action/Hited
+HS (1).png
+HS (1).png
+HS (2).png
+HS (2).png
+Action/Run
+RS (1).png
+RS (2).png
+RS (3).png
+RS (4).png
+RS (5).png
+RS (6).png
+RS (7).png
+RS (8).png
+RS (9).png
+RS (10).png
+Action/Stop
+SS.png
+Action/Punch
+PS (1).png
+PS (2).png
+PS (3).png
+PS (4).png
+PS (5).png
